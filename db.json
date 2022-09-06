@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "email": "duemarket@mail.com",
+      "password": "$2a$10$vi9nYGC6j/iLQYwznbDnoeGTX6pksRhgQ4tYsVP2gJ8RLWegj3RnW",
+      "name": "Mercado dueMArket",
+      "type": "mercado",
+      "cnpj": "12345678901234",
+      "cep": "13419115",
+      "street": "Rua Visconde do Rio Branco",
+      "district": "Cidade Alta",
+      "city": "Piracicaba",
+      "state": "SP",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/d/dd/Logomarca_do_P%C3%A3o_de_A%C3%A7%C3%BAcar_%28supermercado%29.png",
+      "id": 1
+    },
+    {
+      "email": "concorrente@mail.com",
+      "password": "$2a$10$SqtNG8xTqIBYdnXgL5fe6uOVy504lFuLKd7DFFqhITB9XL5hDLqgO",
+      "name": "concorrente",
+      "type": "mercado",
+      "cnpj": "12345678901234",
+      "cep": "13400100",
+      "street": "Rua Regente Feijó",
+      "district": "Centro",
+      "city": "Piracicaba",
+      "state": "SP",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/16/30/18/163018b7-c1cb-d94a-84f5-155e8d14947d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+      "id": 2
+    },
+    {
+      "email": "usuario1@mail.com",
+      "password": "$2a$10$0UAJIO0yWrUDHNdRtYreMeRjKXHaGtCXEIQuFYn3AHUZoOxD5SOcS",
+      "name": "usuario1",
+      "type": "cliente",
+      "cpf": "32536578562",
+      "cep": "13418110",
+      "street": "Rua Leão XIII",
+      "district": "Vila Independência",
+      "city": "Piracicaba",
+      "state": "SP",
+      "id": 3
+    },
+    {
+      "email": "usuario2@mail.com",
+      "password": "$2a$10$HZ.6ZFBtu29GSdEXMiHnA.y904YnCQYLFLHrb3NxFr7XLvwlc4STW",
+      "name": "usuario2",
+      "type": "cliente",
+      "cpf": "98561478520",
+      "cep": "13405009",
+      "street": "Rua Encarnacion Correia",
+      "district": "Nova Piracicaba",
+      "city": "Piracicaba",
+      "state": "SP",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "title": "Extrato de tomate elefante ",
+      "category": "temperos e condimentos",
+      "duedate": "2022-10-20",
+      "oldvalue": "4,50",
+      "newvalue": "1,5",
+      "image": "https://static.paodeacucar.com/img/uploads/1/535/658535.png",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "Sabão em pó OMO Lavagem Perfeita 2.2kg",
+      "category": "material de limpeza",
+      "duedate": "2022-10-05",
+      "oldvalue": "34,29",
+      "newvalue": "10,99",
+      "image": "https://static.paodeacucar.com/img/uploads/1/478/18508478.jpg",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Doritos - Salgadinho de milho queijo nacho",
+      "category": "salgadinhos",
+      "duedate": "2022-10-15",
+      "oldvalue": "8,88",
+      "newvalue": "2,99",
+      "image": "https://static.paodeacucar.com/img/uploads/1/37/23980037.jpg",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "title": "Chocolate MILKA Oreo 300g",
+      "category": "doces",
+      "duedate": "2022-10-09",
+      "oldvalue": "53,99",
+      "newvalue": "13,90",
+      "image": "https://static.paodeacucar.com/img/uploads/1/141/548141.jpg",
+      "userId": 2,
+      "id": 4
+    }
+  ],
+  "whishlist": [
+    {
+      "title": "Chocolate MILKA Oreo 300g",
+      "category": "doces",
+      "duedate": "2022-10-09",
+      "oldvalue": "53,99",
+      "newvalue": "13,90",
+      "image": "https://static.paodeacucar.com/img/uploads/1/141/548141.jpg",
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "title": "Sabão em pó OMO Lavagem Perfeita 2.2kg",
+      "category": "material de limpeza",
+      "duedate": "2022-10-05",
+      "oldvalue": "34,29",
+      "newvalue": "10,99",
+      "image": "https://static.paodeacucar.com/img/uploads/1/478/18508478.jpg",
+      "userId": 4,
+      "id": 2
+    }
+  ],
+  "cupons": [
+    {
+      "category": "massas",
+      "name": "Macarrão parafuso",
+      "value": "10%",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "category": "bebidas alcoólicas",
+      "name": "Heineken Garrafa 600ml",
+      "value": "5%",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "category": "açogue",
+      "name": "Maminha",
+      "value": "8%",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "category": "frios",
+      "name": "Bandeja 200g presunto Seara",
+      "value": "7%",
+      "userId": 2,
+      "id": 4
+    }
+  ]
+}
