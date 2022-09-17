@@ -53,6 +53,97 @@
       "city": "Piracicaba",
       "state": "SP",
       "id": 4
+    },
+    {
+      "email": "thiago@teste.com",
+      "password": "$2a$10$4pGjoSkUPFVFGWepotR4U.AKF8NDAtHjjGQVUmPvkd8ZskzVVd3f.",
+      "name": "Thiago",
+      "age": 33,
+      "id": 5
+    },
+    {
+      "email": "muffato@mail.com",
+      "password": "$2a$10$Cq4.kw7Y8L3LH3WVGACh3uI0pMEjaqSVDYS/sJTO.SABTEv/87paC",
+      "name": "Super Muffato",
+      "type": "mercado",
+      "cnpj": "12345678901234",
+      "cep": "86015-000",
+      "street": "Av. Duque de Caxias",
+      "district": "Centro",
+      "city": "Londrina",
+      "state": "PR",
+      "image": "https://www.google.com/search?q=supper+muffato&tbm=isch&ved=2ahUKEwjF3prBtZz6AhVqOLkGHZegCJMQ2-cCegQIABAA&oq=supper+muffato&gs_lcp=CgNpbWcQAzIGCAAQChAYOgQIIxAnOgQIABAYOgQIABBDOgsIABCABBCxAxCDAToICAAQsQMQgwE6BQgAEIAEOggIABCABBCxAzoECAAQHjoGCAAQHhAKOgYIABAeEAU6CQgAEB4QxwMQBToGCAAQHhAIUNMHWN4YYLQaaABwAHgAgAHOAYgBgw2SAQYzLjExLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=wQwmY4X6Kurw5OUPl8GimAk&bih=714&biw=1536#imgrc=D3ebvBWhIjiiUM",
+      "id": 6
+    },
+    {
+      "email": "veran@mail.com",
+      "password": "$2a$10$lPeyJE4tor29/ZJj5XFAyebnDvxixYnIQjt91waeZCwuIkV3l39QC",
+      "name": "Veran Supermercados",
+      "type": "mercado",
+      "cnpj": "12345678901234",
+      "cep": "08451000",
+      "street": "Estr. do Lageado Velho",
+      "district": "Guaianases",
+      "city": "Sao Paulo",
+      "state": "SP",
+      "image": "https://na001.leafletscdns.com/com.br/data/96/logo.png",
+      "id": 7
+    },
+    {
+      "email": "pinheiro@mail.com",
+      "password": "$2a$10$8cmbxse/LaPstSbSbwNYO.xBFqQkZ.s1kU4JX1r9LG1LN2umOQwPO",
+      "name": "Supermercado Pinheiro",
+      "type": "mercado",
+      "cnpj": "12345678901234",
+      "cep": "62010190",
+      "street": "Boulevard João Barbosa",
+      "district": "Centro",
+      "city": "Sobral",
+      "state": "CE",
+      "image": "https://4.bp.blogspot.com/-CxVN3i732Sc/Wy-yPBZOE9I/AAAAAAAAnbM/V1zC-RWj-HA0TjF3hu7ocYyP1RsDcf2QACK4BGAYYCw/w1200-h630-p-k-no-nu/PINHEIRO%2BSUPERMERCADO.jpg",
+      "id": 8
+    },
+    {
+      "email": "liberdade@mail.com",
+      "password": "$2a$10$M4ZeV5LhNkY1k7B5.msB8eO8uUp0pangmLnNczSfVySBwmrIb39cm",
+      "name": "Supermercado Matriz - Paço da Liberdade",
+      "type": "mercado",
+      "cnpj": "12345678901234",
+      "cep": "80020230",
+      "street": "Praça Generoso Marques",
+      "district": "Centro",
+      "city": "Curitiba",
+      "state": "PR",
+      "image": "https://img.olx.com.br/images/85/856262308726819.jpg",
+      "id": 9
+    },
+    {
+      "email": "atacadao@mail.com",
+      "password": "$2a$10$wzszmJVjon8uFVopxsMqjug/mCqsHc1LcfTvaBragGuEObKpD5gSa",
+      "name": "Atacadão Vila Maria",
+      "type": "mercado",
+      "cnpj": "12345678901234",
+      "cep": "02170901",
+      "street": "Avenida Morvan Dias de Figueiredo",
+      "district": "Vila Maria",
+      "city": "Sao Paulo",
+      "state": "SP",
+      "image": "https://atacadao.hodiebooking.com.br/img/logo_atacadao.png",
+      "id": 10
+    },
+    {
+      "email": "bh@mail.com",
+      "password": "$2a$10$3osVkh9V1kTlE8Yo/0tVNeJtUHNo9GvcxzIzD5EuDVohU1Y7u0xFy",
+      "name": "Supermercados BH",
+      "type": "mercado",
+      "cnpj": "12345678901234",
+      "cep": "32315000",
+      "street": "Avenida João César de Oliveira",
+      "district": "Eldorado",
+      "city": "Contagem",
+      "state": "MG",
+      "image": "https://www.benedixt.com.br/wp-content/uploads/2021/05/supermercado-bh-1.jpg",
+      "id": 11
     }
   ],
   "products": [
@@ -95,6 +186,96 @@
       "image": "https://static.paodeacucar.com/img/uploads/1/141/548141.jpg",
       "userId": 2,
       "id": 4
+    },
+    {
+      "title": "Água Mineral sem gás",
+      "category": "bebidas",
+      "duedate": "2022-10-20",
+      "oldvalue": "4,50",
+      "newvalue": "1,5",
+      "image": "https://static.paodeacucar.com/img/uploads/1/853/12466853.png?im=Resize,width=200",
+      "userId": 6,
+      "id": 5
+    },
+    {
+      "title": "Cerveja Heinken 5l",
+      "category": "bebidas alcoolicas",
+      "duedate": "2022-10-20",
+      "oldvalue": "90,00",
+      "newvalue": "20,0",
+      "image": "https://static.paodeacucar.com/img/uploads/1/29/12156029.jpg?im=Resize,width=200",
+      "userId": 6,
+      "id": 6
+    },
+    {
+      "title": "Fandangos de presunto",
+      "category": "salgadinho",
+      "duedate": "2022-10-20",
+      "oldvalue": "3,39",
+      "newvalue": "0,50",
+      "image": "https://static.paodeacucar.com/img/uploads/1/614/23493614.jpg?im=Resize,width=200",
+      "userId": 6,
+      "id": 7
+    },
+    {
+      "title": "Elma Chips - Onda Requeijão",
+      "category": "salgadinho",
+      "duedate": "2022-10-20",
+      "oldvalue": "16,49",
+      "newvalue": "4,20",
+      "image": "https://static.paodeacucar.com/img/uploads/1/860/23445860.jpg?im=Resize,width=200",
+      "userId": 6,
+      "id": 8
+    },
+    {
+      "title": "Picanha Grill Bovina Resfriada",
+      "category": "acogue",
+      "duedate": "2022-10-20",
+      "oldvalue": "155,99",
+      "newvalue": "30,58",
+      "image": "https://static.paodeacucar.com/img/uploads/1/533/24104533.jpg?im=Resize,width=200",
+      "userId": 6,
+      "id": 9
+    },
+    {
+      "title": "Bife Chorizo SWIFT Gran Reserva 1,3kg",
+      "category": "acogue",
+      "duedate": "2022-10-20",
+      "oldvalue": "97,45",
+      "newvalue": "20,10",
+      "image": "https://static.paodeacucar.com/img/uploads/1/943/19417943.jpg?im=Resize,width=200",
+      "userId": 6,
+      "id": 10
+    },
+    {
+      "title": "Maionese Chipotle Hellmann's sabor: Pimenta",
+      "category": "temperos e condimentos",
+      "duedate": "2022-10-20",
+      "oldvalue": "9,89",
+      "newvalue": "2,10",
+      "image": "https://static.paodeacucar.com/img/uploads/1/979/24159979.jpg?im=Resize,width=200",
+      "userId": 7,
+      "id": 11
+    },
+    {
+      "title": "Maionese Heinz Tradicional 215g",
+      "category": "temperos e condimentos",
+      "duedate": "2022-10-20",
+      "oldvalue": "10,47",
+      "newvalue": "2,10",
+      "image": "https://static.paodeacucar.com/img/uploads/1/498/24095498.jpg?im=Resize,width=200",
+      "userId": 7,
+      "id": 12
+    },
+    {
+      "title": "Cachaça Extra Premium CABARÉ 700ML",
+      "category": "bebidas alcoolicas",
+      "duedate": "2022-10-20",
+      "oldvalue": "379,00",
+      "newvalue": "30,0",
+      "image": "https://static.paodeacucar.com/img/uploads/1/318/15778318.jpeg?im=Resize,width=200",
+      "userId": 7,
+      "id": 13
     }
   ],
   "whishlist": [
@@ -147,6 +328,118 @@
       "value": "7%",
       "userId": 2,
       "id": 4
+    },
+    {
+      "category": "salgadinho",
+      "name": "doritos",
+      "value": "15%",
+      "userId": 6,
+      "id": 5
+    },
+    {
+      "category": "salgadinho",
+      "name": "cheetos",
+      "value": "5%",
+      "userId": 6,
+      "id": 6
+    },
+    {
+      "category": "salgadinho",
+      "name": "ruffles",
+      "value": "17%",
+      "userId": 6,
+      "id": 7
+    },
+    {
+      "category": "salgadinho",
+      "name": "pringles",
+      "value": "8%",
+      "userId": 7,
+      "id": 8
+    },
+    {
+      "category": "petshop",
+      "name": "ração cachorro",
+      "value": "9%",
+      "userId": 7,
+      "id": 9
+    },
+    {
+      "category": "petshop",
+      "name": "ração gato",
+      "value": "20%",
+      "userId": 7,
+      "id": 10
+    },
+    {
+      "category": "açogue",
+      "name": "Maminha",
+      "value": "7%",
+      "userId": 7,
+      "id": 11
+    },
+    {
+      "category": "açogue",
+      "name": "asinha",
+      "value": "10%",
+      "userId": 9,
+      "id": 12
+    },
+    {
+      "category": "açogue",
+      "name": "picanha",
+      "value": "14%",
+      "userId": 9,
+      "id": 13
+    },
+    {
+      "category": "frios",
+      "name": "queijo branco",
+      "value": "12%",
+      "userId": 8,
+      "id": 14
+    },
+    {
+      "category": "frios",
+      "name": "presunto parma",
+      "value": "14%",
+      "userId": 8,
+      "id": 15
+    },
+    {
+      "category": "frios",
+      "name": "azeitona",
+      "value": "17%",
+      "userId": 10,
+      "id": 16
+    },
+    {
+      "category": "doces",
+      "name": "chocolates",
+      "value": "25%",
+      "userId": 10,
+      "id": 17
+    },
+    {
+      "category": "frios",
+      "name": "parmesao",
+      "value": "9%",
+      "userId": 11,
+      "id": 18
+    },
+    {
+      "category": "higiene pessoal",
+      "name": "desodorante",
+      "value": "8%",
+      "userId": 11,
+      "id": 19
+    },
+    {
+      "category": "biscoiteria",
+      "name": "oreo",
+      "value": "10%",
+      "userId": 6,
+      "id": 20
     }
   ]
 }
