@@ -150,7 +150,7 @@
     {
       "title": "Extrato de tomate elefante",
       "category": "temperos e condimentos",
-      "duedate": "2022-10-20",
+      "duedate": "20-10-2022",
       "oldvalue": "4,50",
       "newvalue": "1,5",
       "image": "https://static.paodeacucar.com/img/uploads/1/535/658535.png",
@@ -160,7 +160,7 @@
     {
       "title": "Sabão em pó OMO Lavagem Perfeita 2.2kg",
       "category": "material de limpeza",
-      "duedate": "2022-10-05",
+      "duedate": "05-10-2022",
       "oldvalue": "34,29",
       "newvalue": "10,99",
       "image": "https://static.paodeacucar.com/img/uploads/1/478/18508478.jpg",
@@ -170,7 +170,7 @@
     {
       "title": "Doritos - Salgadinho de milho queijo nacho",
       "category": "salgadinhos",
-      "duedate": "2022-10-15",
+      "duedate": "15-10-2022",
       "oldvalue": "8,88",
       "newvalue": "2,99",
       "image": "https://static.paodeacucar.com/img/uploads/1/37/23980037.jpg",
@@ -180,7 +180,7 @@
     {
       "title": "Chocolate MILKA Oreo 300g",
       "category": "doces",
-      "duedate": "2022-10-09",
+      "duedate": "09-10-2022",
       "oldvalue": "53,99",
       "newvalue": "13,90",
       "image": "https://static.paodeacucar.com/img/uploads/1/141/548141.jpg",
@@ -199,7 +199,7 @@
     },
     {
       "title": "Cerveja Heinken 5l",
-      "category": "bebidas alcoolicas",
+      "category": "bebidas alcoólicas",
       "duedate": "2022-10-20",
       "oldvalue": "90,00",
       "newvalue": "20,0",
@@ -210,7 +210,7 @@
     {
       "title": "Fandangos de presunto",
       "category": "salgadinho",
-      "duedate": "2022-10-20",
+      "duedate": "20-10-2022",
       "oldvalue": "3,39",
       "newvalue": "0,50",
       "image": "https://static.paodeacucar.com/img/uploads/1/614/23493614.jpg?im=Resize,width=200",
@@ -220,7 +220,7 @@
     {
       "title": "Elma Chips - Onda Requeijão",
       "category": "salgadinho",
-      "duedate": "2022-10-20",
+      "duedate": "20-10-2022",
       "oldvalue": "16,49",
       "newvalue": "4,20",
       "image": "https://static.paodeacucar.com/img/uploads/1/860/23445860.jpg?im=Resize,width=200",
@@ -229,8 +229,8 @@
     },
     {
       "title": "Picanha Grill Bovina Resfriada",
-      "category": "acogue",
-      "duedate": "2022-10-20",
+      "category": "açougue",
+      "duedate": "20-10-2022",
       "oldvalue": "155,99",
       "newvalue": "30,58",
       "image": "https://static.paodeacucar.com/img/uploads/1/533/24104533.jpg?im=Resize,width=200",
@@ -239,8 +239,8 @@
     },
     {
       "title": "Bife Chorizo SWIFT Gran Reserva 1,3kg",
-      "category": "acogue",
-      "duedate": "2022-10-20",
+      "category": "açougue",
+      "duedate": "20-10-2022",
       "oldvalue": "97,45",
       "newvalue": "20,10",
       "image": "https://static.paodeacucar.com/img/uploads/1/943/19417943.jpg?im=Resize,width=200",
@@ -250,7 +250,7 @@
     {
       "title": "Maionese Chipotle Hellmann's sabor: Pimenta",
       "category": "temperos e condimentos",
-      "duedate": "2022-10-20",
+      "duedate": "20-10-2022",
       "oldvalue": "9,89",
       "newvalue": "2,10",
       "image": "https://static.paodeacucar.com/img/uploads/1/979/24159979.jpg?im=Resize,width=200",
@@ -260,7 +260,7 @@
     {
       "title": "Maionese Heinz Tradicional 215g",
       "category": "temperos e condimentos",
-      "duedate": "2022-10-20",
+      "duedate": "20-10-2022",
       "oldvalue": "10,47",
       "newvalue": "2,10",
       "image": "https://static.paodeacucar.com/img/uploads/1/498/24095498.jpg?im=Resize,width=200",
@@ -269,8 +269,8 @@
     },
     {
       "title": "Cachaça Extra Premium CABARÉ 700ML",
-      "category": "bebidas alcoolicas",
-      "duedate": "2022-10-20",
+      "category": "bebidas alcoólicas",
+      "duedate": "20-10-2022",
       "oldvalue": "379,00",
       "newvalue": "30,0",
       "image": "https://static.paodeacucar.com/img/uploads/1/318/15778318.jpeg?im=Resize,width=200",
@@ -282,7 +282,7 @@
     {
       "title": "Chocolate MILKA Oreo 300g",
       "category": "doces",
-      "duedate": "2022-10-09",
+      "duedate": "09-10-2022",
       "oldvalue": "53,99",
       "newvalue": "13,90",
       "image": "https://static.paodeacucar.com/img/uploads/1/141/548141.jpg",
@@ -292,7 +292,7 @@
     {
       "title": "Sabão em pó OMO Lavagem Perfeita 2.2kg",
       "category": "material de limpeza",
-      "duedate": "2022-10-05",
+      "duedate": "05-10-2022",
       "oldvalue": "34,29",
       "newvalue": "10,99",
       "image": "https://static.paodeacucar.com/img/uploads/1/478/18508478.jpg",
@@ -316,7 +316,7 @@
       "id": 2
     },
     {
-      "category": "açogue",
+      "category": "açougue",
       "name": "Maminha",
       "value": "8%",
       "userId": 2,
@@ -372,21 +372,21 @@
       "id": 10
     },
     {
-      "category": "açogue",
+      "category": "açougue",
       "name": "Maminha",
       "value": "7%",
       "userId": 7,
       "id": 11
     },
     {
-      "category": "açogue",
+      "category": "açougue",
       "name": "asinha",
       "value": "10%",
       "userId": 9,
       "id": 12
     },
     {
-      "category": "açogue",
+      "category": "açougue",
       "name": "picanha",
       "value": "14%",
       "userId": 9,
